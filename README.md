@@ -31,3 +31,30 @@ we can install the virtualenvwrapper-win by just typing this command also:
 ```
 pip install virtualenvwrapper-win
 ```
+
+## How to run Flask
+
+1- Create a directory 
+2- Create virtual environment by 
+```
+py -m venv env 
+```
+*env is the name for your environment 
+
+3- Activate your virtual environment by navigating from the cmd to env\Scripts\activate "you will see your virtual env name on the left between parentheses".
+
+4-Type this command to install flask
+```
+pip install flask
+```
+
+5- put your ProjectFile.py in a directory and go to this directory and type:
+```
+python ProjectFile.py
+```
+*ProjectFile.py is the name of your project file you can name it anything you want. 
+
+
+
+
+
